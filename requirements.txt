@@ -5,6 +5,8 @@ tqdm
 imageio
 seaborn
 opencv-python
-nltk
+numpy
+tensorflow
+streamlit
 
 -e .
