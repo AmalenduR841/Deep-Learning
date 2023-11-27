@@ -8,5 +8,3 @@ opencv-python
 numpy
 tensorflow
 streamlit
-
--e .
